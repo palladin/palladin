@@ -1,7 +1,3 @@
-# Hi, I'm Nick Palladinos
-
-It's full of stars.
-
 I'm a software engineer in Greece, mostly exploring functional programming, type systems, developer tools, and small libraries that make programming feel more precise and expressive. Recently, my focus has been on Lean, dependent typing, and metaprogramming, building on extensive past experience with F#, C#, and Idris.
 
 ## Focus
