@@ -14,6 +14,7 @@ A focused index of my Lean, F#, C#, and Idris work.
 
 ### Lean
 
+- [lean-eff](https://github.com/palladin/lean-eff) - Lean 4 extensible effects with concrete rows, handlers, and practical examples
 - [lean-bitsyntax](https://github.com/palladin/lean-bitsyntax) - Lean 4 bit syntax experiment
 - [SmtLibDsl](https://github.com/palladin/SmtLibDsl) - Type-safe SMT-LIB DSL for Lean 4 with Z3 integration
 - [lean-snippets](https://github.com/palladin/lean-snippets) - Lean 4 snippets
