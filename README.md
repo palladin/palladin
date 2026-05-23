@@ -1,8 +1,8 @@
-I'm a software engineer in Greece, mostly exploring functional programming, type systems, developer tools, and small libraries that make programming feel more precise and expressive. Recently, my focus has been on Lean, dependent typing, and metaprogramming, building on extensive past experience with F#, C#, and Idris.
+I'm a software engineer in Greece, mostly exploring functional programming, type systems, developer tools, and small libraries that make programming feel more precise and expressive. My focus has been on Lean, dependent typing, and metaprogramming, building on extensive past experience with F#, C#, and Idris.
 
 ## Focus
 
-- Recently: Lean 4 experiments and typed DSLs
+- Lean 4 libs and typed DSLs
 - Previously: extensive work with F#, C#, and Idris
 - Higher-kinded programming abstractions
 - Algebraic effects and logic programming
@@ -14,6 +14,7 @@ A focused index of my Lean, F#, C#, and Idris work.
 
 ### Lean
 
+- [lean-reducers](https://github.com/palladin/lean-reducers) - Parallel, fused reducers for Lean 4 with Task-backed chunked folds and law-aware combiners
 - [lean-eff](https://github.com/palladin/lean-eff) - Lean 4 extensible effects with concrete rows, handlers, and practical examples
 - [lean-bitsyntax](https://github.com/palladin/lean-bitsyntax) - Lean 4 bit syntax experiment
 - [SmtLibDsl](https://github.com/palladin/SmtLibDsl) - Type-safe SMT-LIB DSL for Lean 4 with Z3 integration
