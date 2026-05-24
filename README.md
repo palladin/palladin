@@ -1,4 +1,4 @@
-I'm a PL hacker in Greece interested in applying theory and research ideas to practical programming. I work mostly through functional programming, dependent typing, and metaprogramming, building tools and libraries that make programming feel more precise and expressive.
+I'm a PL hacker interested in applying theory and research ideas to practical programming. I work mostly through functional programming, dependent typing, and metaprogramming, building tools and libraries that make programming feel more precise and expressive.
 
 ## Focus
 
