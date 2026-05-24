@@ -1,16 +1,15 @@
-I'm a software engineer in Greece, mostly exploring functional programming, type systems, developer tools, and small libraries that make programming feel more precise and expressive. My focus has been on Lean, dependent typing, and metaprogramming, building on extensive past experience with F#, C#, and Idris.
+I'm a PL hacker in Greece interested in applying theory and research ideas to practical programming. I work mostly through functional programming, dependent typing, and metaprogramming, building tools and libraries that make programming feel more precise and expressive.
 
 ## Focus
 
-- Lean 4 libs and typed DSLs
-- Previously: extensive work with F#, C#, and Idris
-- Higher-kinded programming abstractions
-- Algebraic effects and logic programming
-- Typed APIs, DSLs, and language experiments
+- Stream fusion and data-processing libraries
+- Distributed and parallel programming
+- Programming with effects and handlers
+- DSLs for logic programming and SMT solvers
 
-## Language Focus
+## Research
 
-A focused index of my Lean, F#, C#, and Idris work.
+- [DBLP profile](https://dblp.org/pid/147/4834.html) - Stream fusion, practical libraries for OCaml and Scala, and formalization work in Agda
 
 ### Lean
 
@@ -42,8 +41,3 @@ A focused index of my Lean, F#, C#, and Idris work.
 ### Idris
 
 - [idris-snippets](https://github.com/palladin/idris-snippets) - Idris snippets and experiments
-
-## Connect
-
-- GitHub: [@palladin](https://github.com/palladin)
-- Twitter: [@NickPalladinos](https://twitter.com/NickPalladinos)
