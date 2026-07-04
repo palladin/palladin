@@ -6,6 +6,7 @@ I'm a PL hacker interested in applying theory and research ideas to practical pr
 - Distributed and parallel programming
 - Programming with effects and handlers
 - DSLs for logic programming and SMT solvers
+- Language-integrated queries and type-safe SQL DSLs
 
 ## Research
 
@@ -13,6 +14,7 @@ I'm a PL hacker interested in applying theory and research ideas to practical pr
 
 ### Lean
 
+- [lean-linq](https://github.com/palladin/lean-linq) - Type-safe LINQ-style SQL query DSL for Lean 4 targeting SQLite, PostgreSQL, and SQL Server
 - [lean-reducers](https://github.com/palladin/lean-reducers) - Parallel, fused reducers for Lean 4 with Task-backed chunked folds and law-aware combiners
 - [lean-eff](https://github.com/palladin/lean-eff) - Lean 4 extensible effects with concrete rows, handlers, and practical examples
 - [lean-bitsyntax](https://github.com/palladin/lean-bitsyntax) - Lean 4 bit syntax experiment
